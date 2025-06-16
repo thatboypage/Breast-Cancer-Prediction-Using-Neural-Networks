@@ -1,6 +1,6 @@
 # Breast Cancer Prediction Using Neural Networks
 
-This project demonstrates how deep learning can be applied to healthcare problems, specifically for the classification of breast cancer tumors as **benign** or **malignant** using diagnostic features. A neural network model is built and trained to assist in early cancer detection — a task where accuracy can literally save lives.
+This project demonstrates how deep learning can be applied to healthcare problems, specifically for the classification of breast cancer tumors as **benign** or **malignant** using diagnostic features. A neural network model is built and trained to assist in early cancer detection, a task where accuracy can literally save lives.
 
 ---
 
